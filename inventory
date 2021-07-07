@@ -1,0 +1,7 @@
+[idrac]
+192.168.86.45
+
+[idrac:vars]
+idrac_ip=192.168.86.45
+idrac_user=root
+idrac_password=DLlb*1975
